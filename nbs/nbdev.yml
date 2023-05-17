@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "CodeNotes"
+  site-url: "https://MarFerDom.github.io/CodeNotes"
+  description: "Notes while learning to code in python"
+  repo-branch: main
+  repo-url: "https://github.com/MarFerDom/CodeNotes"
