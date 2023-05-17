@@ -1,0 +1,31 @@
+{
+    "modules": ["traditionalAnimals"],
+
+    "animals": [
+        {
+            "name_of_type":"cow"
+        },
+        {
+            "name_of_type":"cow",
+            "name":"Gertrude",
+            "milk_per_day":"8"
+        },
+        {
+            "name_of_type":"chicken",
+            "name":"Ms.Clucks",
+            "eggs_per_day":"50"
+        },
+        {
+            "name_of_type":"sheep",
+            "name":"Cheap",
+            "whool_per_day":"999"
+        },
+        {
+            "name_of_type":"bleh",
+            "name":"bleh"
+        },
+        {
+            "name_of_type":"blah"
+        }
+    ]
+}

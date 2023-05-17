@@ -1,0 +1,45 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_core.ipynb
+      - section: DesignPatterns
+        contents:
+          - 00_DesignPatterns\plugin.ipynb
+      - section: Python
+        contents:
+          - 01_Python\01_Dunder.ipynb
+          - 01_Python\02_Built-in.ipynb
+          - 01_Python\03_others.ipynb
+      - section: Numpy
+        contents:
+          - 02_Numpy\02_numpy.ipynb
+      - section: pandas
+        contents:
+          - 03_pandas\03_pandas.ipynb
+      - section: scikit
+        contents:
+          - 04_scikit\04_scikit.ipynb
+          - 04_scikit\MFA_tests.ipynb
+      - section: torch
+        contents:
+          - 05_torch\05_torch.ipynb
+      - section: fastai
+        contents:
+          - 06_fastai\06_fastai.ipynb
+      - section: others
+        contents:
+          - 07_others\01_structure.ipynb
+          - 07_others\02_testing.ipynb
+          - 07_others\03_managing.ipynb
+          - 07_others\04_plotting.ipynb
+          - 07_others\05_twicking.ipynb
+          - 07_others\06_tty.ipynb
+          - 07_others\07_etc.ipynb
+          - 07_others\08_test_openai.ipynb
+      - section: GUI
+        contents:
+          - 08_GUI\01_Tk.ipynb
+      - section: scraping
+        contents:
+          - 09_scraping\scraping.ipynb

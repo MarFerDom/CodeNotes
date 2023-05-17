@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://MarFerDom.github.io',
                 'git_url': 'https://github.com/MarFerDom/CodeNotes',
                 'lib_path': 'CodeNotes'},
-  'syms': {'CodeNotes.core': {'CodeNotes.core.foo': ('core.html#foo', 'CodeNotes/core.py')}}}
+  'syms': {'CodeNotes.core': {'CodeNotes.core.foo': ('core.html#foo', 'CodeNotes/core.py')}, 'CodeNotes.numpy': {}}}
