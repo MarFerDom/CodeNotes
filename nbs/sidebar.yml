@@ -8,7 +8,6 @@ website:
       - section: Python
         contents:
           - 01_Python\01_Dunder.ipynb
-          - 01_Python\02_Built-in.ipynb
           - 01_Python\03_others.ipynb
       - section: Numpy
         contents:
