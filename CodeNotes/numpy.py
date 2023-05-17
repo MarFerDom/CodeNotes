@@ -3,5 +3,5 @@
 # %% auto 0
 __all__ = []
 
-# %% ../nbs/02_Numpy/02_numpy.ipynb 2
+# %% ../nbs/02_Numpy/02_numpy.ipynb 3
 import numpy as np

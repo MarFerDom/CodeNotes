@@ -2,7 +2,6 @@ website:
   sidebar:
     contents:
       - index.ipynb
-      - 00_core.ipynb
       - section: DesignPatterns
         contents:
           - 00_DesignPatterns\plugin.ipynb
