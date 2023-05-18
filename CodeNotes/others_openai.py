@@ -4,16 +4,14 @@
 __all__ = []
 
 # %% ../nbs/07_others/08_test_openai.ipynb 3
+#|eval: false
 import openai
 import os
 
 from dotenv import load_dotenv, find_dotenv
-load_dotenv(find_dotenv())
 
-openai.api_key = os.getenv('OPENAI_API_KEY')
-
-# %% ../nbs/07_others/08_test_openai.ipynb 8
+# %% ../nbs/07_others/08_test_openai.ipynb 9
 from IPython.display import display, HTML
 
-# %% ../nbs/07_others/08_test_openai.ipynb 20
+# %% ../nbs/07_others/08_test_openai.ipynb 21
 import panel as pn  # GUI
