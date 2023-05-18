@@ -18,6 +18,7 @@ from IPython.display import HTML
 from IPython.display import Math
 
 # %% ../nbs/07_others/07_etc.ipynb 24
+#|eval: false
 import pyautogui as pa
 import random
 

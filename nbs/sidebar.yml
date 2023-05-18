@@ -10,6 +10,7 @@ website:
           - 01_Python\01_Dunder.ipynb
           - 01_Python\02_Built-In.ipynb
           - 01_Python\03_others.ipynb
+          - 01_Python\04_Multiprocess.ipynb
       - section: Numpy
         contents:
           - 02_Numpy\02_numpy.ipynb
