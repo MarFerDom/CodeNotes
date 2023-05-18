@@ -3,13 +3,24 @@
 # %% auto 0
 __all__ = []
 
-# %% ../nbs/07_others/07_etc.ipynb 4
+# %% ../nbs/07_others/07_etc.ipynb 5
 import numpy as np
 from IPython.display import Audio
 
-# %% ../nbs/07_others/07_etc.ipynb 7
+# %% ../nbs/07_others/07_etc.ipynb 8
+from IPython.display import ProgressBar
+import time
+
+# %% ../nbs/07_others/07_etc.ipynb 17
 from IPython.display import HTML
 
-# %% ../nbs/07_others/07_etc.ipynb 12
+# %% ../nbs/07_others/07_etc.ipynb 20
+from IPython.display import Math
+
+# %% ../nbs/07_others/07_etc.ipynb 24
+import pyautogui as pa
+import random
+
+# %% ../nbs/07_others/07_etc.ipynb 28
 from IPython.display import display, Markdown
 from redlines import Redlines
